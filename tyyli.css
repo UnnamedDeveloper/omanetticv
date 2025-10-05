@@ -87,11 +87,13 @@ footer {
 }
 
 .sertifikaatit {
-    font-size: 40px;
+    width: auto;
+    height: auto;
 }
 
 .sertit {
-    font-size: 32px;
+    width: auto;
+    height: auto;
 }
 
 section img {
@@ -156,3 +158,4 @@ footer {
   width: 50%;
 
 }}
+
