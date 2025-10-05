@@ -80,21 +80,14 @@ footer {
     font-size: 14px;
 }
 
-.tervetuloa {
-    width: auto;
-    height: auto;
-    font-size: 32px;
-
 .omanimi {
     width: auto;
     height: auto;
-    font-size: 32px;
 }
 
 .sertifikaatit {
     width: auto;
     height: auto;
-    font-size: 32px;
 }
 
 .sertit {
@@ -164,5 +157,6 @@ footer {
   width: 50%;
 
 }}
+
 
 
