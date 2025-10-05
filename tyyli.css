@@ -44,7 +44,6 @@ body {
 
 
 li {
-float: middle;
 margin: 0 5px;
 }
 
@@ -89,9 +88,6 @@ footer {
 
 .sertifikaatit {
     font-size: 40px;
-    background-image:none;
-    background-position:none;
-    background-size:none;
 }
 
 .sertit {
@@ -158,4 +154,5 @@ footer {
 .column {
   float: left;
   width: 50%;
+
 }}
