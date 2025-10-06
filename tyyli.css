@@ -33,18 +33,10 @@ body {
     
 }
 
-body { 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-
   /*  background: url() no-repeat center center fixed; */
 
 
 li {
-float: middle;
 margin: 0 5px;
 }
 
@@ -155,4 +147,5 @@ footer {
 .column {
   float: left;
   width: 50%;
+
 }}
